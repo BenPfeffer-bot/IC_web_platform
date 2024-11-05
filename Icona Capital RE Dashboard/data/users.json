@@ -1,0 +1,17 @@
+{
+  "ben": {
+    "username": "ben",
+    "name": "ben",
+    "password": "leazoe"
+  },
+  "test": {
+    "username": "test",
+    "name": "test",
+    "password": "abbcccdddd"
+  },
+  "abcdef": {
+    "username": "abcdef",
+    "name": "test_v2",
+    "password": "lealea"
+  }
+}
